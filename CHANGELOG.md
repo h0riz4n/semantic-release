@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/h0riz4n/semantic-release/compare/v1.0.1...v1.1.0) (2025-02-16)
+
+
+### Bug Fixes
+
+* Небольшие изменения ([61fd0b5](https://github.com/h0riz4n/semantic-release/commit/61fd0b5878e1a3ed5926ed234c8a401bb45fbf51))
+
+
+### Features
+
+* Небольшие изменения ([5f00b4c](https://github.com/h0riz4n/semantic-release/commit/5f00b4c9ca940c318bcbba9d247b77b9a081c32a))
+
 ## [1.0.1](https://github.com/h0riz4n/semantic-release/compare/v1.0.0...v1.0.1) (2025-02-16)
 
 

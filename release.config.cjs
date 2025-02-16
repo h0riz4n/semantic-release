@@ -4,7 +4,18 @@ const { generateVersionEnv: generateVersionEnv } = require('./create-version.js'
  * @type {import('semantic-release').GlobalConfig}
  */
 module.exports = {
-    branches: [ "main", "dev" ],
+    branches: [
+        {
+            name: "main",
+            channel: "stable",
+            prerelease: false
+        },
+        {
+            name: "dev",
+            channel: "dev",
+            prerelease: false
+        }
+    ],
     plugins: [
         "@semantic-release/commit-analyzer",
         "@semantic-release/release-notes-generator",
