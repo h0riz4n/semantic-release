@@ -12,7 +12,7 @@
 	
 	<groupId>com.example</groupId>
 	<artifactId>rustam-test</artifactId>
-	<version>1.1.0</version>
+	<version>1.1.1</version>
 	<name>rustam-test</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
