@@ -9,7 +9,6 @@
 		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-
 	<groupId>com.example</groupId>
 	<artifactId>rustam-test</artifactId>
 	<version>1.0.1</version>
